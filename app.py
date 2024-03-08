@@ -4,3 +4,8 @@ def addpoints(a,b):
 
 def lalaa(lol,passing):
     pass
+
+
+def division(s,g):
+    hehehhehe = s-g
+    return hehehhehe
